@@ -1,6 +1,7 @@
 # Use-a-playbook-to-respond-to-a-phishing-incident
-Follow the steps in playbook to help level-one SOC analysts provide an appropriate and timely response to a phishing incident.
-File hash was confirmed malicious using VirusTotal, see "Investigation of file hash"
+- Follow the steps in playbook to help level-one SOC analysts provide an appropriate and timely response to a phishing incident.
+
+- File hash was confirmed malicious using VirusTotal, see "Investigation of file hash"
 
 ![image](https://github.com/jli149/Use-a-playbook-to-respond-to-a-phishing-incident/assets/52467584/7f82ba91-1f67-4b2a-998f-36923d709571)
 
